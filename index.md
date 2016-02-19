@@ -184,11 +184,20 @@ author: 中興大學資訊科技研習社
 %%%%%%%%%%%%%%%
 !SLIDE center-list x=3600 y=2100
 
+## Semantic UI 的排版用容器
+
+#### 在這之前，有個很重要的概念：
+
+#### [RWD](https://developer.mozilla.org/en-US/docs/Web/Guide/Responsive_design)
+
+%%%%%%%%%%%%%%%
+!SLIDE center-list x=3600 y=2100 z=-6000
+
 ### Semantic UI 的排版用容器
 
  * [Grid](http://semantic-ui.com/collections/grid.html)
  * [Container](http://semantic-ui.com/elements/container.html)
- * [關於 viewport 的設定](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag) 以及 [RWD](https://zh.wikipedia.org/wiki/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1)
+ * [關於 viewport 的設定](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 
 %%%%%%%%%%%%%%%
 !SLIDE x=0 y=2800
@@ -198,6 +207,8 @@ author: 中興大學資訊科技研習社
 #### 由助教們提供樣本讓大家開始做囉
 
 #### 有問題都可以問助教
+
+#### [教學資源：http://ppt.cc/rIbyS](http://ppt.cc/rIbyS)
 
 %%%%%%%%%%%%%%%
 !SLIDE center-list x=0 y=3500
@@ -225,6 +236,19 @@ author: 中興大學資訊科技研習社
 ### 謝謝大家今天的參與！
 
 ![presents](http://i.imgur.com/3FpJbep.png)
+
+%%%%%%%%%%%%%%%
+!SLIDE picture x=0 y=5600
+
+ * 興大資訊社：
+   * 粉專：[http://fb.me/it.nchu](http://fb.me/it.nchu)
+   * 官方網站：[http://nchuit.cc](http://nchuit.cc)
+ * 逢甲黑客社：
+   * 粉專：[http://fb.me/HackerSir.tw](http://fb.me/HackerSir.tw)
+   * 官方網站：[https://hackersir.info](https://hackersir.info)
+ * SITCON:
+   * 粉專：[http://fb.me/SITCONtw](http://fb.me/SITCONtw)
+   * 官方網站：[http://sitcon.org](http://sitcon.org)
 
 %% The End
 %%%%%%%%%%%%%%%
